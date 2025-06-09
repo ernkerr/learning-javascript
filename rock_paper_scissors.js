@@ -57,8 +57,6 @@ function determineWinner() {
   }
 }
 
-// const emojiChoices = ["✊", "🤚", "✌️"];
-
 // for something without a browser,
 // you could run it directly in the terminal using Node.js
 // node rock_paper_scissors.js
