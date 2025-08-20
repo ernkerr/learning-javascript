@@ -10,3 +10,4 @@ console.log(`${now.getMonth() + 1}/${now.getDate()}/${now / getFullYear()}`);
 
 // get year
 // .getFullYear()
+// .getYear() will only give you two digits
